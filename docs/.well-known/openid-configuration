@@ -1,6 +1,6 @@
 {
-    "issuer": "https://bensolo-io.github.io/eks-iam-for-pods",
-    "jwks_uri": "https://bensolo-io.github.io/eks-iam-for-pods/keys.json",
+    "issuer": "https://bdlilley.github.io/eks-iam-for-pods",
+    "jwks_uri": "https://bdlilley.github.io/eks-iam-for-pods/keys.json",
     "authorization_endpoint": "urn:kubernetes:programmatic_authorization",
     "response_types_supported": [
         "id_token"
